@@ -1,12 +1,16 @@
-# Sophia Calderon
+# Project Scope Statement
 
-## Criminal Justice/ Data Forencsics
-My professional interest is using my degree in Computer Applications to help law enforcement investigate and convict criminals. I am interested in using technology, data analysis, and digital evidence to identify patterns, uncover connections, and support investigations. Technology can play an important role in helping investigators organize information, analyze evidence, and find details that may otherwise be difficult to recognize. I hope to develop the technical skills necessary to contribute to this field in a effective way.
-My long-term goal is to use these skills to help protect women and children from violence and exploitation. I want to contribute to investigations that hold offenders accountable while helping victims and their families receive justice. By combining my education in computer applications with a commitment to public safety, I hope to build a career where technology can be used to support stronger investigations, prevent crime, and make communities safer.
+## Project Purpose
+The purpose of this project is to develop my technical and project management skills while creating a personal webpage that represents my professional interests and career goals. I want to build a strong foundation in computer applications and learn how technology, data analysis, and digital evidence can support law enforcement investigations and help protect women and children from violence and exploitation.
 
-## Personal Intrests
-- Criminal Justice
-- Fitness
-- Animals
+## Description
+This project is a personal webpage that showcases my education, professional interests, career goals, and hobbies while demonstrating my basic HTML and project management skills.
 
-  <a href="https://github.com/sophiacancode">My GitHub Profile</a>
+## Desired Results
+- Improve my HTML and computer application skills.
+- Develop a better understanding of project management.
+- Build skills that can support my future career in criminal justice and cybersecurity.
+
+## Exclusions
+- Creating a fully developed professional portfolio.
+- Developing a complex website.
