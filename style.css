@@ -1,18 +1,16 @@
 body {
-
-  background-color: lightgray;
+    background-color: lightgray;
+    margin: 20px;
 }
 
 h1 {
-  color: darkblue;
-  font-family: Arial, sans-serif;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    padding: 10px;
 }
 
 p {
-  color: darkgreen;
-  font-family: Georgia, serif;
-}
-
-main {
-  padding: 20px;
+    color: darkgreen;
+    font-family: Georgia, serif;
+    margin: 20px 10px;
 }
