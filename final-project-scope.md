@@ -54,4 +54,4 @@ The project can be successful when users can start a break, choose and complete 
 1. Define requirements and scope
 2. Design the user flow
 3. Develop the app
-5. Test and improve the app.
+4. Test and improve the app.
